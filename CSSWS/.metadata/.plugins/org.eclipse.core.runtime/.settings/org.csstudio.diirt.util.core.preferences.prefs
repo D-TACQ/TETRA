@@ -1,0 +1,4 @@
+diirt.ca.addr.list=acq1001_280 acq1001_281 acq1001_282 acq1001_283 acq1001_302 acq1001_303 acq1001_304 acq1001_305
+diirt.ca.auto.addr.list=false
+diirt.default.initialized=true
+eclipse.preferences.version=1

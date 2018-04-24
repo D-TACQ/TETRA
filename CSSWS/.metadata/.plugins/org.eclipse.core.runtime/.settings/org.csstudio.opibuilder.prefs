@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+macros="UUT1","acq1001_280"|"UUT2","acq1001_281"|"UUT3","acq1001_282"|"UUT4","acq1001_283"|"UUT5","acq1001_302"|"UUT6","acq1001_303"|"UUT7","acq1001_304"|"UUT8","acq1001_305"|"CH01","01"|"CH02","01"|"CH03","02"|"CH04","02"|"CH05","03"|"CH06","03"|"CH07","04"|"CH08","04"|"UUT","${UUT1}"|"SITE","1"|"HAPIDIR","C\:\\Users\\acq400\\PROJECTS\\ACQ400\\HAPI\\acq400_hapi_tests"|"DATADIR","C\:\\Users\\acq400\\Documents\\KFUPM"|"ACTIVECHAN","((1,),(1,),(2,),(2,),(3,),(3,),(4,),(4,))"|"_ALLCHAN","()"
