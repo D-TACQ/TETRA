@@ -7,9 +7,9 @@ mkdir -p PROJECTS/ACQ400/HAPI/
 [ ! -e  PROJECTS/ACQ400/OPI/.git ] && \
 	git clone https://github.com/D-TACQ/ACQ400CSS.git PROJECTS/ACQ400/OPI
 
-[ ! -e PROJECTS/ACQ400/HAPI/acq400_hapi_tests/acq400_hapi/.git ] && \
+[ ! -e PROJECTS/ACQ400/HAPI/acq400_hapi/.git ] && \
 	git clone https://github.com/D-TACQ/acq400_hapi.git \
-	PROJECTS/ACQ400/HAPI/acq400_hapi_tests/acq400_hapi
+	PROJECTS/ACQ400/HAPI/acq400_hapi
 
 [ ! -e TETRA/.git ] && \
 	git clone https://github.com/D-TACQ/TETRA.git \
